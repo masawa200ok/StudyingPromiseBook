@@ -1,0 +1,2 @@
+# StudyingPromiseBook
+Promise本を勉強した際のコード
